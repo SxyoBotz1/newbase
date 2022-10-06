@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Xzn-Botz" //namabot kalian
-global.ownername= "Akmall Nz..な" //nama kalian
-global.myweb ="https://vm.tiktok.com/ZSR4LYtL1/" //bebas asal jan hapus
-global.youtube = "https://github.com/c/XzenzBotz" //bebas asal jan hapus
-global.myweb2 = "https://linki.ee/xzennz_" //bebas
-global.email = "akmalsebastian89@gmail.com" //bebas
+global.botname = "ITORIBOTZ" //namabot kalian
+global.ownername= "Mass Aji..な" //nama kalian
+global.myweb ="https://www.instagram.com/ahmdzakaria47" //bebas asal jan hapus
+global.youtube = "https://github.com/c/RamaBotz19" //bebas asal jan hapus
+global.myweb2 = "https://linki.ee/ahmdzakaria" //bebas
+global.email = "sxyoallbotz@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['628988986891'] //premium user
-global.owner = ["628988986891","62895609803131"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "628988986891" // nomor wa kalian
-global.ownernomerr = "+628988986891" //nmr wa kalian
+global.premium = ['6287793236775'] //premium user
+global.owner = ["6287793236775","6287793236775"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6287793236775" // nomor wa kalian
+global.ownernomerr = "+6287793236775" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/f1904b2e418a2d12e4ec8.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e69e9de5d404c9eb994eb.mp4'
-global.packname = '© Xzn-Bot Official Bot WhatsApp' //sticker wm ubah
-global.author = 'Di Buat Oleh Akmall Nz..な' //sticker wm ganti nama kalian
+global.packname = '© ITORIBOTZ Official Bot WhatsApp' //sticker wm ubah
+global.author = 'Di Buat Oleh Mass Aji..な' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
